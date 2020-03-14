@@ -1,3 +1,5 @@
+require('./setup-mocha');
+
 const FSM = require('../src/fsm');
 
 /** Good luck! :) **/
